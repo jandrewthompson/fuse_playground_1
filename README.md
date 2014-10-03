@@ -13,4 +13,6 @@
     fire up Fuse
         > bin/fuse
         > osgi:install -s file:/vagrant/play1-1.0-SNAPSHOT.jar
+   
+    View the results: http://localhost:8181/cxf/foo/bar 
 
